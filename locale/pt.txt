@@ -1,0 +1,25 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_D60AD5D2_CC51_BDBC_41C2_BE10A3BB503A.mp3Url = media/audio_D5FC82C1_CC51_F79C_41D2_FC601617C641_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_C7FD924C_CBCE_96A4_41DD_A843D926F38D.label = HouseMoveis
+album_C5F43124_CBD3_92E4_41CB_AFDE1030B84E.label = Photo Album panorama_3AA89A74_17E2_50DF_41AB_D4915B4BD839_HS_1ze91nuw
+album_C5F43124_CBD3_92E4_41CB_AFDE1030B84E_0.label = panorama_3AA89A74_17E2_50DF_41AB_D4915B4BD839_HS_1ze91nuw
+
+## Skin
+
+### Image
+Image_D4D9C22A_CC52_96EC_41DD_F9B1CAFF2E69.url = skin/Image_D4D9C22A_CC52_96EC_41DD_F9B1CAFF2E69_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 8
